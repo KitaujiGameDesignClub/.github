@@ -1,13 +1,7 @@
 ## 欢迎来到北宇治高校GD部！ 👋
 
 我们的门户网站：[这里](https://kitaujigamedesign.top/)
-<!--
 
-**Here are some ideas to get you started:**
+我们是为《吹响吧!上低音号》制作同人游戏的小型社团，目标是制作契合原作的、较为新颖的游戏
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+我们刚刚起步，如果你想加入我们，可以点击这里
